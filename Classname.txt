@@ -51,3 +51,5 @@ Hel_MagazineLoading_BlueCase_SLOT3
 Hel_MagazineLoading_MagentaCase_SLOT3
 Hel_MagazineLoading_RedCase_SLOT3
 Hel_MagazineLoading_YellowCase_SLOT3
+
+Hel_MagazineLoading_Object
